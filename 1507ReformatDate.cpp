@@ -1,3 +1,5 @@
+//https://dotblogs.com.tw/v6610688/2013/11/08/cplusplus_stringstream_int_and_string_convert_and_clear
+//https://zxi.mytechroad.com/blog/string/leetcode-1507-reformat-date/
 class Solution {
 public:
     string reformatDate(string date) {
