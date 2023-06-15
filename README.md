@@ -21,3 +21,6 @@ Need review:
 |915|[Partition Array into Disjoint Intervals](https://github.com/grandyang/LeetCode-All-In-One/issues/915)|43.90%|Medium|
 |914|[X of a Kind in a Deck of Cards](https://github.com/grandyang/LeetCode-All-In-One/issues/914)|34.00%|Easy|
 |913|[Cat and Mouse](https://github.com/grandyang/LeetCode-All-In-One/issues/913)|29.90%|Hard|
+
+
+https://hackmd.io/8h9KFrEqSMKsSg_ODJ5hrA
